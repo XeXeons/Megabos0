@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Fahad Im  12
+- 👀 I’m interested in Programming
+- 🌱 I’m currently learning Web Dev
